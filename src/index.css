@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  width: 100dvw;
+  height: 100dvh;
+  display: grid;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  font-family: 'Aleo', serif;
+}
