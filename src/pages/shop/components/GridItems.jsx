@@ -42,7 +42,7 @@ export const GridItems = () => {
           ))
         }
       </div>
-      <div className="flex items-center justify-center gap-[1px] pt-4">
+      <div className="fixed bottom-10 flex items-center justify-center gap-[1px] pt-4">
         <div className="cursor-pointer w-12 h-12 border-2 flex items-center border-waikawa-gray-600 text-waikawa-gray-950 justify-center">
           <IoIosArrowBack className="w-6 h-6" />
         </div>
